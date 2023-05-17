@@ -1,6 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3441f1&height=120&section=header"/>
+<!-- Cabecalho -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9580ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28a16c&size=35&center=true&vCenter=true&width=1000&theme=dracula&lines=Hi+there+👋;I'm+Angelica+Ribeiro;I'm+from+Brazil;Postgraduate+in+Applied+Computer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9580ff&size=35&center=true&vCenter=true&width=1000&theme=dracula&lines=Hi+there+👋;I'm+Angelica+Ribeiro;I'm+from+Brazil;Postgraduate+in+Applied+Computer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<img align="right" alt="Ang-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/13433634/161449053-6c599216-de6a-41f2-bbc7-8d8c09113a03.png?width=676&height=676">
 
 - 🔭 I’m currently working on my Ph.D thesis
 - 🌱 I’m currently learning 
@@ -11,16 +13,16 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a music freak
 
-
+<!-- Status do git -->
 <div align="center">
   <a href="https://github.com/AngelicaRibeiro">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=angelicaribeiro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=3441f1&icon_color=28a16c&text_color=c9d1d9&bg_color=0d1117"  alt="Angelica Github Stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaribeiro&layout=compact&hide_border=true&title_color=28a16c&text_color=28a16c&bg_color=0d1117"/></a>
+   <!--  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=angelicaribeiro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=c9d1d9"  alt="Angelica Github Stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaribeiro&layout=compact&hide_border=true&title_color=28a16c&text_color=28a16c&bg_color=0d1117"/></a> -->
 </div>
 
 
 <div align="center">
-  <a href = "mailto:angelicaribeiro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:angelicaribeiro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=9580ff" target="_blank"></a>
   <a href="https://www.linkedin.com/in/angelicaribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  </a>   
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/angelicaribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -51,26 +53,31 @@
   <img align="center" alt="Ang-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ang-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ang-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ang-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/13433634/161449053-6c599216-de6a-41f2-bbc7-8d8c09113a03.png?width=676&height=676">
+ 
 
 
 
-<br><p align="center"><b>Visitors Count</b></p>  
+<br><p align="center">
+
+![Snake animation](https://github.com/angelicaribeiro/angelicaribeiro/blob/output/github-contribution-grid-snake.svg)
+
+
+  <b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AngelicaRibeiro}/count.svg"/></p> 
 <h5>After 17/05/2023</h5>
 <br>
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3441f1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9580ff&height=120&section=footer"/>
 
 
 ###  
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/angelicaribeiro"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelicaribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaribeiro&layout=compact&langs_count=9&theme=dracula"/>
-</div>
+</div> -->
 
 
 
@@ -104,7 +111,3 @@
 
 
 
-![Snake animation](https://github.com/angelicaribeiro/angelicaribeiro/blob/output/github-contribution-grid-snake.svg)
-
-
--->
