@@ -1,8 +1,21 @@
 <!-- <a href="https://www.linkedin.com/in/Angella-ballerini-45875016" target="_blank"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/Angella-ballerini-45875016" target="_blank"><img src="https://img.shields.io/github/followers/angelicaribeiro.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>  -->
+<a href="https://www.linkedin.com/in/Angella-ballerini-45875016" target="_blank"><img src="https://img.shields.io/github/followers/angelicaribeiro.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3441f1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28a16c&size=35&center=true&vCenter=true&width=1000&theme=dracula&lines=I'm+Angelica+Ribeiro;I'm+from+Brazil;Postgraduate+in+Applied+Computer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+<div align="center">
+  <a href="https://github.com/AngelicaRibeiro">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=angelicaribeiro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=3441f1&icon_color=28a16c&text_color=c9d1d9&bg_color=0d1117"  alt="Angelica Github Stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaribeiro&layout=compact&hide_border=true&title_color=28a16c&text_color=28a16c&bg_color=0d1117" />
+    
+</div>
+
 
 ### Hi there 👋 
-<!-- 
+
 <div align="center">
   <a href="https://github.com/angelicaribeiro"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelicaribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaribeiro&layout=compact&langs_count=9&theme=dracula"/>
@@ -37,7 +50,7 @@
 
 ### Find-me at: 
 
-<!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/angelicaribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/angelicaribeiro" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -68,5 +81,5 @@
 
 ![Snake animation](https://github.com/angelicaribeiro/angelicaribeiro/blob/output/github-contribution-grid-snake.svg)
 
-</div> -->
 
+-->
