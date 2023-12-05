@@ -21,8 +21,8 @@
 <details>
   <summary><b>🧑‍💻 Git Status </b></summary>
   <div>
-<img width="35%" height="190px" src="https://github-readme-stats.vercel.app/api?username=angelicaribeiro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=9580ff&icon_color=ff80bf&text_color=c9d1d9&bg_color=0d1117" alt="Angelica Github Stats"/> 
-<img width="35%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaribeiro&layout=compact&hide_border=true&title_color=9580ff&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="39%" height="190px" src="https://github-readme-stats.vercel.app/api?username=angelicaribeiro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=9580ff&icon_color=ff80bf&text_color=c9d1d9&bg_color=0d1117" alt="Angelica Github Stats"/> 
+<img width="39%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaribeiro&layout=compact&hide_border=true&title_color=9580ff&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
   ![Snake animation](https://github.com/angelicaribeiro/angelicaribeiro/blob/output/github-contribution-grid-snake.svg)
