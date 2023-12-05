@@ -4,24 +4,37 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9580ff&size=35&center=true&vCenter=true&width=1000&theme=dracula&lines=Hi+there+👋;I'm+Angelica+Ribeiro;Welcome+to+my+github;Enter+freely;and+of+your+own+free+will+!;🤗)](https://git.io/typing-svg) 
 <img align="right" alt="Ang-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/13433634/161449053-6c599216-de6a-41f2-bbc7-8d8c09113a03.png?width=676&height=676">
 
+<details>
+  <summary><b> 😀 About Me </b></summary>
+  
 - 🔭 I’m currently working on my Ph.D thesis
 - 🌱 I’m currently learning EEG stuff
 - 👯 I’m looking to collaborate on open source repositories
 - 🤔 I’m looking for EEG Databases
-<!-- - 💬 Ask me about  -->
 - 📫 How to reach me: Telegram
-<!-- - 😄 Pronouns: she/her -->
 - ⚡ Fun fact: I'm a music freak
+<!-- - 💬 Ask me about  -->
+<!-- - 😄 Pronouns: she/her -->
 
-<!-- Status do git -->
-<div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=angelicaribeiro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=9580ff&icon_color=ff80bf&text_color=c9d1d9&bg_color=0d1117" alt="Angelica Github Stats"/> 
+</details>
+
+<details>
+  <summary><b>🧑‍💻 Git Status </b></summary>
+  <div>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=angelicaribeiro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=9580ff&icon_color=ff80bf&text_color=c9d1d9&bg_color=0d1117" alt="Angelica Github Stats"/> 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaribeiro&layout=compact&hide_border=true&title_color=9580ff&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
+  ![Snake animation](https://github.com/angelicaribeiro/angelicaribeiro/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <a href = "mailto:angelicaribeiro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=9580ff" target="_blank"></a>
+  
+</details>
+
+
+<details>
+  <summary><b>💬 Socials Networks </b></summary>
+  <div>
+ <a href = "mailto:angelicaribeiro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=9580ff" target="_blank"></a>
   <a href="https://www.linkedin.com/in/angelicaribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  </a>   
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/angelicaribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -34,20 +47,12 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor" target="_blank"></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" target="_blank"></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"></a> 
+</div>
+</details>
 
-
-  
-  </div>
-
-
-
-
-
-
-
-
-<div align="center">
-
+<details>
+  <summary><b>🧑‍💻 Tech Stack </b></summary>
+  <div>
   <img align="center" alt="Ang-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ang-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ang-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -55,18 +60,14 @@
   <img align="center" alt="Ang-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ang-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ang-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
+</div>
+</details>
 
 
 
-<br><p align="center">
-
-![Snake animation](https://github.com/angelicaribeiro/angelicaribeiro/blob/output/github-contribution-grid-snake.svg)
-
-
-  <b>Visitors Count</b></p>  
+<p align="center" ><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AngelicaRibeiro}/count.svg"/></p> 
-<h5>After 17/05/2023</h5>
+
 <br>
 </div>
 
